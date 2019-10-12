@@ -46,35 +46,40 @@ export const NOTICE = [
     notice:'Orders above $ 299'
   },
   {
-    image:'http://www.mirlandshaft.ru/wp-content/uploads/2017/02/landshaftnyj-dizajn-dorozhki-65-foto-idej7.jpg',
-    text:'GET 35% OFF From The Shake Marker',
+    image:'https://www.franchiseindia.com/uploads/news/ri/5b8e2d309ebfa.jpeg',
+    text:'GET 35% OFF From The Swiggy Marker',
     notice:'Orders above $ 100'
+  },
+  {
+    image:'https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2018/10/Terra-Jim-Brueckner.jpg',
+    text:'GET 15% OFF From The Shake Marker',
+    notice:'Orders above $ 30'
   }
 ]
 
 export const JOBS = [
   {
-    image: 'https://jfwonline.com/wp-content/uploads/2017/02/garden-copy.jpg',
+    image: 'https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/Biriyani_bohvze',
     title: 'Wrappido - The Restaurant',
     position: 'North Indian, Lebanese, tandoor',
     money: '15% off on all orders',
   },{
-    image: 'https://wp-assets.dotproperty-kh.com/wp-content/uploads/sites/9/2014/09/11103214/13.jpg',
+    image: 'https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/NorthIndian_u554zm',
     title: 'Ocean Grill Restaurant',
     position: 'Indian, Chinese',
     money: '15 % off on orders above 200',
   },{
-    image: 'https://res.cloudinary.com/sagacity/image/upload/c_crop,h_600,w_800,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/International_Rose_Test_Garden6_v7nlze.jpg',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbDPxbrIaoPkDuNP4eyLtCb7tHCcmG3iJJmHuZ5tO_4HeIqchb',
     title: 'Vadilal Hangout',
     position: 'Snacks, Desserts',
     money: 'Free Suji Halwa only for SUPERs',
   },{
-    image: 'https://gardenandgun.com/wp-content/uploads/2018/10/10-2-570x428.jpg',
+    image: 'https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/TopRated_kyu7dk',
     title: 'My Magical Kitchen',
     position: 'Indian, Russian',
     money: '50% off on all orders',
   },{
-    image: 'http://www.mirlandshaft.ru/wp-content/uploads/2017/02/landshaftnyj-dizajn-dorozhki-65-foto-idej7.jpg',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwLtkEaq994PT3PWItTNYJlwh77JnB_hQaur3ZhcM-N_Vr2TRq',
     title: 'La Pinoz Pizza',
     position: 'Pizzas, Fast Food',
     money: '10% off on all orders',
