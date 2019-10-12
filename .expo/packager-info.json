@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
   "expoServerPort": 19000,
-  "expoServerNgrokUrl": "https://3u-p8d.anonymous.haiku-reactnative.exp.direct",
-  "packagerNgrokUrl": "https://packager.3u-p8d.anonymous.haiku-reactnative.exp.direct",
-  "ngrokPid": 12332,
+  "expoServerNgrokUrl": "https://3u-p8d.eugene95.expo-haiku-mohd.exp.direct",
+  "packagerNgrokUrl": "https://packager.3u-p8d.eugene95.expo-haiku-mohd.exp.direct",
+  "ngrokPid": 5288,
   "packagerPort": 19001,
-  "packagerPid": 12396
+  "packagerPid": 22712
 }

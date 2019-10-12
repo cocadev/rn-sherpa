@@ -8,7 +8,7 @@ import {
   FlatList,
   Dimensions
 } from 'react-native';
-import { Grid } from 'antd-mobile-rn';
+import { Grid } from '@ant-design/react-native';
 
 import { SEARCHITEM, NOTICE } from '../../../common/staticdata'
 import { texts } from '../../../common/texts';
