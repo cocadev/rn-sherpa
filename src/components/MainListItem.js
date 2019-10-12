@@ -2,7 +2,7 @@ import * as React from 'react';
 import { Text, Image, StyleSheet, TouchableOpacity, View } from 'react-native';
 import { Flex } from '@ant-design/react-native';
 import { colors } from '../common/colors';
-import { Ionicons, MaterialCommunityIcons } from '@expo/vector-icons';
+import { Ionicons, Entypo } from '@expo/vector-icons';
 import { texts } from '../common/texts';
 import { Actions } from 'react-native-router-flux';
 
@@ -36,8 +36,8 @@ export default class MainListItem extends React.Component {
               <Text style={[styles.listText2, {marginLeft:8, fontSize:13, lineHeight:26}]}>{position}</Text>
             </Flex>
             <Flex>
-              <MaterialCommunityIcons
-                name="water-percent"
+              <Entypo
+                name="water"
                 size={25}
                 color={'#935e53'}
                 style={{ marginLeft: 2 }}

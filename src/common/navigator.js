@@ -13,7 +13,7 @@ export const MainNavigator = createBottomTabNavigator(
       Tab4: { screen: Tab4Screen },
     },
     {
-      initialRouteName: 'Tab3',
+      initialRouteName: 'Tab1',
       tabBarComponent: NavTabBar,
       tabBarPosition: 'bottom',
     }
