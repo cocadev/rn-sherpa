@@ -1,2 +1,2 @@
-# Haiku-ReactNative
+# Sherpa-Food ordering App
 
