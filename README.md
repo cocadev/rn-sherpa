@@ -69,19 +69,11 @@ Animavita's purpose is not to change how people use facebook to the activities d
 
 ## :dizzy: **Roadmap**
 
-Check the [Roadmap](/ROADMAP.md) to more details about itens below.
-
--   [ ] Rescue system (WIP)
--   [ ] Write CONTRIBUTING.md + Install instructions
--   [ ] Make it work on IOS
--   [ ] Write tests in backend
--   [ ] Write tests in frontend
--   [ ] Transform into responsive
--   [ ] Create Landing Page
--   [ ] i18n
--   [ ] Offline-first
--   [ ] Create/Apply Dataloaders
--   [ ] Update to latest React Native version
+-   [x] Make it work on IOS
+-   [x] Make it work on Android
+-   [x] Make it work on Expo
+-   [x] Transform into responsive
+-   [x] Update to latest React Native version
 
 ## **Install instructions**
 
