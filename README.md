@@ -1,6 +1,6 @@
-<h1 align="center">
-  <h1 align="center"><b> :panda_face: Food Delivery App</b> </h1>
+<h1 align="center"><b> Food Delivery App</b> </h1>
 
+<h1 align="center">
   <br>
   <kbd>
     <img src="https://image.prntscr.com/image/YrkdAm5xSxe0MmkqrvGeJA.png" alt="Animavita" height="525" width="725">
