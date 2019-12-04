@@ -27,11 +27,11 @@
 </p>
 
 <p align="center">
-  <a href="#blush-why">Overview</a> •
+  <a href="#blush-overview">Overview</a> •
   <a href="#dizzy-roadmap">Roadmap</a> •
   <a href="#zap-tech-stack">Tech Stack</a> •
-  <a href="#iphone-1">Test</a> •
-  <a href="#eyes-1">Version</a> •
+  <a href="#iphone-Test">Test</a> •
+  <a href="#eyes-version">Version</a> •
 
 </p>
 
