@@ -96,7 +96,10 @@ Animavita's purpose is not to change how people use facebook to the activities d
 ## :zap: **Tech Stack**
 
 <h1 align="center">
-  <img src="https://miro.medium.com/max/2600/1*pD7ShcZ7YHIMXe2mgiFzbg.png" alt="Stack" height="150" width="600">
+  <img src="https://apprecs.org/gp/images/app-icons/300/d8/host.exp.exponent.jpg" alt="Stack" height="150" width="150">
+  <img src="https://ionicframework.com/docs/assets/icons/logo-react-icon.png" alt="Stack" height="150" width="150">
+  <img src="https://thumbnail.imgbin.com/15/4/10/imgbin-firebase-cloud-messaging-computer-icons-google-cloud-messaging-android-7NqDmTcis4VTVgJgypYxMsvV9_t.jpg" alt="Stack" height="150" width="150">
+
   <br>
 </h1>
 
