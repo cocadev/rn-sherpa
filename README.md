@@ -47,9 +47,11 @@
   <kbd>
     <img width="250" style="border-radius: 5px" height="450" src="screenshots/4.PNG" alt="4">
   </kbd>
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
     <img width="250" style="border-radius: 5px" height="450" src="screenshots/5.PNG" alt="5">
   </kbd>
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
     <img width="250" style="border-radius: 5px" height="450" src="screenshots/6.PNG" alt="6">
   </kbd>
