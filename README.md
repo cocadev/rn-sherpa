@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <img src="https://image.prntscr.com/image/YrkdAm5xSxe0MmkqrvGeJA.png" alt="Animavita" height="125" width="125">
+  <img src="https://image.prntscr.com/image/YrkdAm5xSxe0MmkqrvGeJA.png" alt="Animavita" height="525" width="725">
   <br>
-  <img src="https://i.imgur.com/iSizpPl.png" alt="Animavita" height="45" width="">
+  <h1 align="center"><b>Food Delivery App</b> </h1>
   <br><br>
 </h1>
 
