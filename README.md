@@ -27,22 +27,22 @@
   <a href="#blush-why">Why</a> •
   <a href="#dizzy-roadmap">Roadmap</a> •
   <a href="#zap-tech-stack">Tech Stack</a> •
-  <a href="#handshake-contributing">Contributing</a> •  
-  <a href="#tophat-license">License</a> •
-  <a href="#art-about-me">About Me</a>
+  <a href="#test">Test</a> •
+  <a href="#version">Version</a> •
+
 </p>
 
 <p align="center">
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/7CJSiNA.gif" alt="Intro">
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/1.PNG" alt="Intro">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/jxUIe8w.gif" alt="Register adopt">
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/2.PNG" alt="Register adopt">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://i.imgur.com/CNczcSk.gif" alt="Chat">
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/3.PNG" alt="Chat">
   </kbd>
 </p>
 
@@ -107,3 +107,12 @@ Check the [Roadmap](/ROADMAP.md) to more details about itens below.
 -   [OneSignal](https://onesignal.com)
 -   [AWS](https://aws.amazon.com/pt/)
 -   [Redux-Persist](https://github.com/rt2zz/redux-persist)
+
+## :test: **Test**
+
+- [x] Test on Android
+- [x] Test on iOS
+
+## :version: **Version**
+- [] React-Native 
+- [x] Expo 35
