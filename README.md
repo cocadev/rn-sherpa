@@ -1,10 +1,11 @@
 <h1 align="center">
+  <h1 align="center"><b> :panda_face: Food Delivery App</b> </h1>
+
   <br>
   <kbd>
     <img src="https://image.prntscr.com/image/YrkdAm5xSxe0MmkqrvGeJA.png" alt="Animavita" height="525" width="725">
   </kbd>
   <br>
-  <h1 align="center"><b> :panda_face: Food Delivery App</b> </h1>
   <br><br>
 </h1>
 
@@ -46,6 +47,7 @@
   <kbd>
     <img width="250" style="border-radius: 5px" height="450" src="screenshots/3.PNG" alt="3">
   </kbd>
+  <br/>
   <kbd>
     <img width="250" style="border-radius: 5px" height="450" src="screenshots/4.PNG" alt="4">
   </kbd>
