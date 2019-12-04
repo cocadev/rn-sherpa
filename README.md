@@ -29,10 +29,10 @@
 <p align="center">
   <a href="#blush-overview">Overview</a> •
   <a href="#dizzy-roadmap">Roadmap</a> •
+  <a href="#wrench-install-instructions">Install</a> •
   <a href="#zap-tech-stack">Tech Stack</a> •
   <a href="#iphone-Test">Test</a> •
   <a href="#eyes-version">Version</a> •
-
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Animavita's purpose is not to change how people use facebook to the activities d
 -   [x] Transform into responsive
 -   [x] Update to latest React Native version
 
-## **Install instructions**
+## :wrench: **Install instructions**
 
 ### Getting Started
 
