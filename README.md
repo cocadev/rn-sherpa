@@ -1,14 +1,14 @@
 <h1 align="center">
   <br>
-  <img src="https://prnt.sc/q67qf1" alt="Animavita" height="125" width="125">
+  <img src="https://image.prntscr.com/image/YrkdAm5xSxe0MmkqrvGeJA.png" alt="Animavita" height="125" width="125">
   <br>
   <img src="https://i.imgur.com/iSizpPl.png" alt="Animavita" height="45" width="">
   <br><br>
 </h1>
 
-<p align="center">A minimal, clean and beautiful mobile app to help people find the closest pet friend to adopt, rescue lives and change the world.</p>
+<p align="center">A minimal, clean and beautiful mobile app to help people find the foods to delivery and change the world.</p>
 
-<p align="center"><i>"How to save a life?" - The Fray</i> </p>
+<p align="center"><i>"How to save a life?" - The Food Delivery</i> </p>
 
 <p align="center">
   <a href="http://makeapullrequest.com">
