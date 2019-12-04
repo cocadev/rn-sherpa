@@ -2,7 +2,7 @@
   <br>
   <img src="https://image.prntscr.com/image/YrkdAm5xSxe0MmkqrvGeJA.png" alt="Animavita" height="525" width="725">
   <br>
-  <h1 align="center"><b>Food Delivery App</b> </h1>
+  <h1 align="center"><b> :panda_face: Food Delivery App</b> </h1>
   <br><br>
 </h1>
 
@@ -24,29 +24,38 @@
 </p>
 
 <p align="center">
-  <a href="#blush-why">Why</a> •
+  <a href="#blush-why">Overview</a> •
   <a href="#dizzy-roadmap">Roadmap</a> •
   <a href="#zap-tech-stack">Tech Stack</a> •
-  <a href="#test">Test</a> •
-  <a href="#version">Version</a> •
+  <a href="#iphone-1">Test</a> •
+  <a href="#eyes-1">Version</a> •
 
 </p>
 
 <p align="center">
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="screenshots/1.PNG" alt="Intro">
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/1.PNG" alt="1">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="screenshots/2.PNG" alt="Register adopt">
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/2.PNG" alt="2">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="screenshots/3.PNG" alt="Chat">
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/3.PNG" alt="3">
+  </kbd>
+  <kbd>
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/4.PNG" alt="4">
+  </kbd>
+  <kbd>
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/5.PNG" alt="5">
+  </kbd>
+  <kbd>
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/6.PNG" alt="6">
   </kbd>
 </p>
 
-## :blush: **Why?**
+## :blush: **Overview?**
 
 Animavita is a combination of two Latin words, ‘Animal’ and ‘Vitae’, which means respectively ‘Animal’ and ‘Life’. This is an idea to create or animate something that was born a while ago, when I realized that facebook is used to publicize adoption and also ask for help for animals that lives on the streets.
 
@@ -108,11 +117,11 @@ Check the [Roadmap](/ROADMAP.md) to more details about itens below.
 -   [AWS](https://aws.amazon.com/pt/)
 -   [Redux-Persist](https://github.com/rt2zz/redux-persist)
 
-## :test: **Test**
+## :iphone: **Test**
 
 - [x] Test on Android
 - [x] Test on iOS
 
-## :version: **Version**
-- [] React-Native 
+## :eyes: **Version**
+- [ ] React-Native 
 - [x] Expo 35
