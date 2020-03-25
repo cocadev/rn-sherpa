@@ -1,4 +1,4 @@
-<h1 align="center"><b> Sherpa App </b> </h1>
+<h1 align="center"><b> Sherpa React-Native App </b> </h1>
 
 <p align="center">A minimal, clean and beautiful mobile app to help people find the foods to delivery and change the world.</p>
 
