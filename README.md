@@ -22,7 +22,6 @@
   <a href="#dizzy-roadmap">Roadmap</a> •
   <a href="#wrench-install-instructions">Install</a> •
   <a href="#zap-tech-stack">Tech Stack</a> •
-  <a href="#iphone-Test">Test</a> •
   <a href="#eyes-version">Version</a> •
 </p>
 
